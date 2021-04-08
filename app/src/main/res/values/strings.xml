@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityHD</string>
+    <string name="login_label"><b>Login</b></string>
+    <string name="hint_email">Please Enter Email Address</string>
+    <string name="hint_password">Please Enter Password</string>
+    <string name="register_label">Register</string>
+    <string name="text_forgetPassword"><i><u>Forget Password?</u></i></string>
+    <string name="hint_confirmPassword">Please Enter Confirm Password</string>
+    <string name="hint_name">Please Enter Full Name</string>
+    <string name="hint_city">Please Enter City</string>
+    <string name="hint_gender">Please Enter Gender</string>
+    <string name="hint_dob">Please Enter Birthdate [dd/mm/yyyy]</string>
+</resources>
